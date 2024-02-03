@@ -1,5 +1,5 @@
 ## ACE Group Assignment_FrontEnd E-commerce store
-[Link to hosted website]()
+[Link to hosted website](https://tech4dev-fellows-24-ace-group-front-end.github.io/ACE_store/)
 
 # For this e-commerce website, we used HTML, CSS and Javascript
 
