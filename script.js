@@ -35,7 +35,7 @@ let displayProduct = async (allCheckCat = []) => {
                     <img src="${element.image}" alt="img">
                    
                     <h4>${element.category}</h4>
-                    <p>$ ${element.price}</p>
+                    <p class="price">$ ${element.price}</p>
                     <h3>${element.title}</h3>
                 </div>
             `
